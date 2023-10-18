@@ -1,0 +1,79 @@
+body{
+    background: linear-gradient(0deg, #323232 0%, #454545 100%); 
+}
+.logo{
+    max-height: 70px;
+}
+#navbarNavAltMarkup .kop{
+    font-weight: bold;
+    font-size: 25px;
+    color:  rgb(238, 191, 62);
+}
+.frage{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(238, 191, 62);
+}
+header .navbar-toggler{
+    background-color: rgb(199, 198, 198);
+}
+.card{
+    background: linear-gradient(0deg, #757575 0%, #bdbdbd 100%);
+}
+.card a{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(238, 191, 62);
+    border-style: none;
+    
+    
+}
+.scrollspy-example{
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+}
+.card img{
+    max-height: 260px;
+}
+@media(max-width:1000px){
+    .card img{
+        max-height: 1000px;
+    }
+}
+.scrollspy-example h1{
+    color: rgb(238, 191, 62);
+    font-weight: bold;
+}
+#navbar-example2{
+    background: linear-gradient(0deg, #d3ed07 0%, #daaa0e 100%);
+    margin-top: 10px;
+}
+#navbar-example2 a{
+    color: #000000;
+    font-size: 20px;
+}
+#navbar-example2 .mmm{
+    font-size: 30px;
+    font-weight: bold;
+}
+.lebe{
+    text-align: left;
+}
+#scrollspyHeading5,
+#scrollspyHeading4,
+#scrollspyHeading3,
+#scrollspyHeading2
+{
+    color: rgb(238, 191, 62);
+    font-weight: bold;
+    text-align: center;
+}
+.ccc img{
+    max-height: 200px;
+}
+.card h5{
+    text-align: center;
+}
